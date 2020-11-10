@@ -1,9 +1,9 @@
 body {
-    background: lightyellow;
+    background: grey;
 }
 
 .emoji-face {
-    background-color: turquoise;
+    background-color: yellow;
     height: 100px;
     width: 100px;
     border-radius: 50%;
